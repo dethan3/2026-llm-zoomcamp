@@ -3,8 +3,9 @@ name = "2026-llm-zoomcamp"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.14.9"
 dependencies = [
+    "certifi>=2026.10.19",
     "jupyter>=1.1.1",
     "minsearch>=0.1.1",
     "openai>=2.43.0",
